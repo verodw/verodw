@@ -4,7 +4,6 @@
   <img src="https://github.com/user-attachments/assets/6d56e504-c7dd-491e-ab45-03395d5be8b7" alt="zz" width="600px">
 </div>
 
-
 I'm a passionate Full Stack Developer, driven by a love for innovation and creativity. With a commitment to self-improvement and continuous learning, I’m always seeking new opportunities to expand my skills and make a meaningful impact through technology. Let’s explore the exciting world of tech together!
 
 # 💫 About Me:
@@ -14,7 +13,9 @@ I'm a passionate Full Stack Developer, driven by a love for innovation and creat
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/veronica-dwiyanti) 
 
-![yy](https://github.com/user-attachments/assets/a9a4965f-3095-4910-a70b-a78316e858f9)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a9a4965f-3095-4910-a70b-a78316e858f9" alt="yy" width="400px">
+</div>
 
 
 # 💻 Tech Stack:
