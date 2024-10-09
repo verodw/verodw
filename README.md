@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer, driven by a love for innovation and creat
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/veronica-dwiyanti) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veronica-dwiyanti) 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a9a4965f-3095-4910-a70b-a78316e858f9" alt="yy" width="400px">
