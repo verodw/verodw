@@ -7,7 +7,7 @@
 I'm a passionate Full Stack Developer, driven by a love for innovation and creativity. With a commitment to self-improvement and continuous learning, I’m always seeking new opportunities to expand my skills and make a meaningful impact through technology. Let’s explore the exciting world of tech together!
 
 # 💫 About Me:
-🔭 I’m currently working on: Building innovative AI-driven web and mobile applications.<br>👯 I’m looking to collaborate on: Open-source projects and cutting-edge tech initiatives.<br>🌱 I’m currently learning: AI, Machine Learning, Web & Mobile Development<br>💬 Ask me about: AI development, mobile apps, full-stack development.<br>⚡ Fun fact: I can build apps while sipping on bubble tea 🍵.
+🔭 I’m currently working on: Building machine learning models and mobile applications.<br>👯 I’m looking to collaborate on: Open-source projects and cutting-edge tech initiatives.<br>🌱 I’m currently learning: AI, Machine Learning, Web & Mobile Development<br>💬 Ask me about: AI development, mobile apps, full-stack development.<br>⚡ Fun fact: I can build apps while sipping on bubble tea 🍵.
 
 
 ## 🌐 Socials:
