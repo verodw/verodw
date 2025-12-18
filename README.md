@@ -4,7 +4,10 @@
   <img src="https://github.com/user-attachments/assets/6d56e504-c7dd-491e-ab45-03395d5be8b7" alt="header" width="600px">
 </div>
 
-I’m an **AI & Data-focused Engineer** with a strong **full-stack development background**, currently transitioning deeper into **Machine Learning, Data Analytics, and emerging technologies like Blockchain/Web3**.
+<br/>
+<br/>
+
+I’m an **AI & Data-focused Engineer** with **full-stack development background**, currently transitioning deeper into **Machine Learning, Data Analytics, and emerging technologies like Blockchain/Web3**.
 
 I enjoy building **end-to-end intelligent systems** — from data processing and ML models to clean, usable web or mobile applications. I’m driven by curiosity, continuous learning, and a desire to build technology that creates real impact.
 
@@ -68,7 +71,7 @@ I enjoy building **end-to-end intelligent systems** — from data processing and
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=verodw&theme=neon&hide_border=false"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=verodw&theme=neon&hide_border=false&cache_seconds=86400&border_radius=8"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verodw&theme=neon&hide_border=false&layout=compact"/>
